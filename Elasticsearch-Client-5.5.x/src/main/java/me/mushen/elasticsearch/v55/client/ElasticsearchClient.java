@@ -1,4 +1,4 @@
-package me.mushen.elasticsearch.v5.client;
+package me.mushen.elasticsearch.v55.client;
 
 import org.elasticsearch.client.transport.TransportClient;
 import org.elasticsearch.common.settings.Settings;
